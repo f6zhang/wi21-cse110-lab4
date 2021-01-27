@@ -15,3 +15,19 @@
 13c. student.greeting()
 13d. student["Favorite Teacher"].name
 13e. student.courseLoad[0]
+14a. 32
+14b. 1
+14c. 3
+14b. 3null
+14e. 4
+14f. 0
+14g. 3undefined
+14h. NaN
+15a. true
+15b. false
+15c. true
+15d. false
+15e. false
+15f. true
+16. == only check if two values are equal. === check if two values are equal and if they are the same datatype.
+17. "How are you?". Because 2 == true will return false, their values are different. But 2 is true because anything other than 0 is true.
