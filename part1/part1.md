@@ -1,4 +1,5 @@
-\ 1. It will print the length of prices. Because declaring a variable with var has global scope.
+Answers:
+ 1. It will print the length of prices. Because declaring a variable with var has global scope.
  2. It will print raw discount price of the last variable in prices. The same as above.
  3. It will be printed, the same value as the last value in the "discounted". Because both print and the definition of "final price" is in the scope of this function.
  4. It will return "[50, 100, 150]". Because this function loop through prices and applies the discount to them. Apply 0.5 discount on [100, 200, 300] is [50, 100, 150].
