@@ -10,24 +10,24 @@
 10. Error, no such varibale. The same reason as above.
 11. It will return 0, as it defined above and const value cannot change.
 12. It will return []. Because const value cannot change, so it will return the value of its definition.
-13.a student.name
-13.b student["Grad Year"]
-13.c student.greeting()
-13.d student["Favorite Teacher"].name
-13.e student.courseLoad[0]
-14.a 32
-14.b 1
-14.c 3
-14.d 3null
-14.e 4
-14.f 0
-14.g 3undefined
-14.g NaN
-15.a true
-15.b false
-15.c true
-15.d false
-15.e false
-15.f true
+13. a student.name
+13. b student["Grad Year"]
+13. c student.greeting()
+13. d student["Favorite Teacher"].name
+13. e student.courseLoad[0]
+14. a 32
+14. b 1
+14. c 3
+14. d 3null
+14. e 4
+14. f 0
+14. g 3undefined
+14. g NaN
+15. a true
+15. b false
+15. c true
+15. d false
+15. e false
+15. f true
 16. == only check if two values are equal. === check if two values are equal and if they are the same datatype.
 17. "How are you?". Because 2 == true will return false, their values are different. But 2 is true because anything other than 0 is true.
