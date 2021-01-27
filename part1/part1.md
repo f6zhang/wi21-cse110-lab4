@@ -19,4 +19,7 @@ Answers:
  18. See part1-question18.js
  19. It will return [6, 8, 10]. The callback in modifyArray is doSomething, it would call doSomething(array[i], function ...), which is funtion(array[i]+2). So the output is (array[i] + 2) * 2, which is [6, 8, 10].
  20. See part1-question20.js
- 21. 1/n4/n3/n2
+ 21. 1
+     4
+     3
+     2
